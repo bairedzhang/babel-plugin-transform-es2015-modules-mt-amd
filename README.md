@@ -1,4 +1,4 @@
-# babel-plugin-transform-es2015-modules-amd
+# babel-plugin-transform-es2015-modules-mt-amd
 
 ## Installation
 
@@ -14,20 +14,20 @@ $ npm install babel-plugin-transform-es2015-modules-amd
 
 ```json
 {
-  "plugins": ["transform-es2015-modules-amd"]
+  "plugins": ["transform-es2015-modules-mt-amd"]
 }
 ```
 
 ### Via CLI
 
 ```sh
-$ babel --plugins transform-es2015-modules-amd script.js
+$ babel --plugins transform-es2015-modules-mt-amd script.js
 ```
 
 ### Via Node API
 
 ```javascript
 require("babel-core").transform("code", {
-  plugins: ["transform-es2015-modules-amd"]
+  plugins: ["transform-es2015-modules-mt-amd"]
 });
 ```
