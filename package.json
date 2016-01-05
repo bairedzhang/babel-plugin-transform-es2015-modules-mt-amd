@@ -3,10 +3,10 @@
   "description": "## Installation",
   "main": "lib/index.js",
   "author": "bairedzhang",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bairedzhang/babel-plugin-transform-es2015-modules-amd"
+    "url": "https://github.com/bairedzhang/babel-plugin-transform-es2015-modules-mt-amd"
   },
   "devDependencies": {
     "babel-helper-plugin-test-runner": "^6.3.13"
