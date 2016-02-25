@@ -3,7 +3,7 @@
   "description": "## Installation",
   "main": "lib/index.js",
   "author": "bairedzhang",
-  "version": "0.0.9",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/bairedzhang/babel-plugin-transform-es2015-modules-mt-amd"
@@ -16,8 +16,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
-    "babel-runtime": "^5.0.0",
-    "babel-template": "^6.3.13"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.2",
+    "babel-runtime": "^6.5.0",
+    "babel-template": "^6.5.0"
   }
 }
